@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="fbvcrud.fbvcrud.urls.fbvapp" />
+          <option value="fbvcrud.fbv_crud.urls.*" />
+          <option value="fbvcrud.fbv_app.views.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
